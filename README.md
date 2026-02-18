@@ -1,6 +1,6 @@
 # Human Vibration Theory: A Complex Vector Model of Consciousness
 
-![4](./4.png)
+![4](./4.PNG)
 
 ## 1. The Vector Representation of Consciousness
 In this framework, a human being is defined as a time-varying complex vector $z$ on the Complex Plane. This model moves beyond psychological sentiment into the realm of **Wave Engineering**.
