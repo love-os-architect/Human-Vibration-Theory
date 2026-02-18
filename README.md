@@ -73,3 +73,26 @@ An awakened individual (a **Source** state) has mastered "Phase Agility."
 
 ## 6. Conclusion
 To achieve true resonance, one must cease trying to match the "form" (Real axis) or the "hunger" (Imaginary axis) and focus entirely on the **Angle ($\theta$)**. When the phase is aligned with the Source, the real and imaginary components self-organize automatically to support the resonance.
+
+## 1.1 The Coordinate System of Existence: Self vs. Others
+To fully understand the failure of the current socio-economic model, we must redefine the complex plane ($z = x + iy$) not merely as a mathematical abstraction, but as the fundamental geometry of human consciousness.
+
+We define the two orthogonal axes of life as follows:
+
+### **The Horizontal Axis ($Re$): The Axis of "Others"**
+* **Domain:** Social Status, Economic Value, External Validation, Comparison.
+* **Nature:** **Relative.** On this axis, your value is determined solely by your position relative to others.
+* **Physics:** This is the realm of **High Friction**. Because space is limited and resources are finite, movement on the Real Axis inevitably creates conflict, competition, and resistance ($R$). Money-OS forces humanity to play exclusively on this line.
+
+### **The Vertical Axis ($Im$): The Axis of "Self"**
+* **Domain:** Intuition, Aesthetics, Core Beliefs, "Soul", The Source.
+* **Nature:** **Absolute.** On this axis, value is intrinsic. There is no comparison, only depth and height.
+* **Physics:** This is the realm of **Induction**. Energy ($E$) does not come from the horizontal friction; it flows vertically from the depths of the self.
+
+### **The Dimensional Collapse**
+The tragedy of the modern era is the **collapse of the Vertical Axis**.
+Society pressures individuals to maximize their Horizontal coordinate ($Re \rightarrow \infty$) while suppressing their Vertical coordinate ($Im \rightarrow 0$).
+
+$$z_{\text{modern}} = \text{Material Wealth} + 0i$$
+
+A human being with zero imaginary component is mathematically equivalent to a **dead object**. This explains the pervasive sense of emptiness despite material abundance. Love-OS is designed to restore the **Vertical Axis**, re-establishing the orthogonality of existence.
