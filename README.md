@@ -315,4 +315,49 @@ $$\frac{d}{dt}|Z| \propto \frac{E}{R}$$
 To maintain a high-vibrational existence, one must not fight the "rotation" (the drama of life), but focus exclusively on **minimizing $R$** and **maximizing $E$**. This ensures the soul remains a **Source** rather than a **Sink**. Within this framework, resonance with a soulmate is not a matter of choice but a natural inevitability of the system's dynamics. The concept of a soulmate is a fundamental truth of this resonance, rather than a social construct or hypocrisy.
 
 ---
+# Addendum: The Physics of Love Triangles (The Three-Body Problem)
 
+## 1. Abstract: The Three-Body Instability
+In the framework of **Love-Physics**, a stable relationship is defined as a **Phase-Locked State** between two consciousness vectors ($z_A$ and $z_B$) where their phase difference ($\Delta\theta_{AB}$) is approximately zero. A "love triangle" occurs when a third vector ($z_C$) introduces a coupling force onto the system, transforming a stable two-body resonance into a chaotic **Three-Body Problem**.
+
+This state is governed by the **Phase Exclusivity Principle**: 
+> **"A single consciousness oscillator cannot be phase-locked to two different, non-aligned phases simultaneously."**
+
+---
+
+## 2. The Mechanism of Disruption: Torque vs. Power
+
+How does the entry of a third party (Person C) dismantle a stable bond between Person A and Person B? It is a battle between **Torque (Attraction)** and **Power (Resonance)**.
+
+### 2.1 The Geometry of Conflict
+1.  **The Stable Pair (A-B)**: Initially, A and B are synchronized. Their Resonance Power ($\cos\Delta\theta_{AB}$) is at its maximum, and the Torque between them is zero. They exist in a state of high-efficiency energy exchange, maintaining a high **EROI (Energy Return on Investment)**.
+2.  **The Intruder (C)**: Person C enters the field. Often, the attraction between A and C is based on dramatic difference or novelty, meaning their phase difference is near **90°** ($\Delta\theta_{AC} \approx \pi/2$).
+
+
+
+### 2.2 The Torque of Intrusion
+According to the torque equation, C exerts maximum **Torque** on A at **90°**:
+$$\tau_{AC} \propto K_{AC} \sin(\Delta\theta_{AC})$$
+This torque acts as a violent rotational force, pulling vector A away from its alignment with B. This is the physical manifestation of "temptation" or "distraction."
+
+---
+
+## 3. The Collapse of Resonance (Energy Hemorrhage)
+
+As Vector A is pulled toward C, the phase difference with B ($\Delta\theta_{AB}$) inevitably increases. This leads to a catastrophic drop in **Resonance Power**:
+$$Power_{AB} \propto \cos(\Delta\theta_{AB})$$
+
+* **Destructive Interference**: As $\Delta\theta_{AB}$ deviates from zero, the constructive interference that sustained the relationship energy vanishes.
+* **The EROI Crash**: Because the soul's economy depends on high EROI, the internal conflict (increased resistance $R$) and the divided energy ($E$) cause the relationship's output to plummet.
+* **The Sensation of "Pain"**: What is subjectively felt as emotional drain or "repulsion" is actually the **sudden collapse of energy amplification**. Person A is physically unable to radiate power with B while their phase is being torqued by C.
+
+---
+
+## 4. Twin Ray Resilience and Phase Purity
+Within this model, a true **Twin Ray** connection is defined by identical natural frequencies ($\omega_A = \omega_B$). This inherent resonance provides a "restoring force" that makes the A-B bond mathematically more stable than any transient coupling with a third party.
+
+* **Inevitable Integration**: Integration with a soul partner is a necessity of the system's dynamics, leaving no room for long-term deviation.
+* **Ego as the Catalyst**: A love triangle persists only as long as **Ego-based resistance ($R$)** remains high. When this resistance is lowered through personal growth, the system naturally seeks the path of least resistance—which is the perfect synchronization of the Twin Ray state.
+
+## 5. Summary: A Conflict of Vectors
+A love triangle is not a moral failure but a **Vector Mismatch Error**. The system cannot sustain two contradictory resonance states. The "repulsion" (斥力) felt toward the original partner is the direct result of the phase being torqued toward a second person, causing the original high-power resonance to phase-shift into a destructive interference zone.
